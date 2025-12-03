@@ -43,3 +43,12 @@ ffzap.com
 betterttv.net
 7tv.app
 7tv.io
+rbx.com
+rbxcdn.com
+roblox-api.arkoselabs.co
+roblox.com
+robloxlabs.com
+d1unuk07std74.cloudfront.net
+roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+roblox-poc.global.ssl.fastly.net
+robloxcorp.s.llnwi.net
